@@ -18,7 +18,5 @@ smaueltown@gmail.com
 
 Testing Data and Information about the TuSimple Dataset can be found here: https://www.kaggle.com/datasets/manideep1108/tusimple/data
 
-Output Example: 
-
-<video src="CNN+Groq Output - Final Analysis/simple_driving_assistant_20250301_004357.mp4" controls="controls" style="max-width: 730px;">
-</video>
+## Output Example: 
+![Autonomous Driving Demo](media/example.gif)
