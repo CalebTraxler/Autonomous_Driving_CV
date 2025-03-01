@@ -1,4 +1,7 @@
 # Autonomous_Driving_CV
+
+## Enhancing Driving Safety Through Integrated Visual Intelligence: Lane Recognition via CNN and Object Detection via Groq API
+
 Implemented a dual-intelligence approach that combines custom CNN-based land detection with Groq API-powered road object recognition
 
 Project created by:
